@@ -4,3 +4,5 @@ myvenv
 db.sqlite3
 .DS_Store
 git status
+git commit -m "Mi app Django Girls, primer commit"
+git add --all .
